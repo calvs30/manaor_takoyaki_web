@@ -544,7 +544,7 @@ a:focus {
 }
 
 .food_section .box .img-box {
-  background-image: url("../../images/menubg.png");
+  background: url("/images/menubg.png");
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
